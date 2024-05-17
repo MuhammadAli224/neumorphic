@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart' as material;
 import 'package:flutter/widgets.dart';
 
-import '../neumorphic_box_shape.dart';
 import '../decoration/neumorphic_decorations.dart';
+import '../neumorphic_box_shape.dart';
 import '../theme/neumorphic_theme.dart';
 import 'clipper/neumorphic_box_shape_clipper.dart';
 
-export '../neumorphic_box_shape.dart';
 export '../decoration/neumorphic_decorations.dart';
+export '../neumorphic_box_shape.dart';
 export '../theme/neumorphic_theme.dart';
 
 /// The main container of the Neumorphic UI KIT
