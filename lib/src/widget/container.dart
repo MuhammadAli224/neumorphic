@@ -118,7 +118,7 @@ class _NeumorphicContainer extends StatelessWidget {
     final shape = style.boxShape ?? const NeumorphicBoxShape.rect();
 
     return DefaultTextStyle(
-      style: textStyle ?? material.Theme.of(context).textTheme.bodyMedium!,
+style: textStyle ?? material.Theme.of(context).textTheme.bodyMedium!,
       child: AnimatedContainer(
         margin: margin,
         duration: duration,
